@@ -108,11 +108,8 @@ onMounted(() => {
         :status="booking.status"
       />
     </section>
-
-    <div class="my-5 w-[30%] p-5 bg-white">
-      <h2 class="text-xl font-semibold pb-3">Muhammad Razaullah</h2>
-      <p>I am a Full Stack Developer, Currently working in Nisum Consulting Pvt Ltd</p>
-      <button class="px-3 py-2 text-white mt-4 bg-slate-500">Know More</button>
-    </div>
+    <section class="p-5 bg-[#dcdcdc] text-center">
+      <p>This is footer section</p>
+    </section>
   </main>
 </template>
