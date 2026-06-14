@@ -108,5 +108,6 @@ onMounted(() => {
         :status="booking.status"
       />
     </section>
+    <section class="p-5 py-10 bg-slate-500 text-white">Hi, This is Footer Section</section>
   </main>
 </template>
